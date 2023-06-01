@@ -11,7 +11,7 @@ public class SFXManager : MonoBehaviour
         instance = this;  
     }
 
-    public AudioSource gemSound, explodeSound, stoneSound, roundOverSound;
+    public AudioSource gemSound, explodeSound, stoneSound;
 
     public void PlayGemBreak()
     {
@@ -40,10 +40,6 @@ public class SFXManager : MonoBehaviour
         stoneSound.Play();
     }
 
-    public void PlayRoundOver()
-    {
-        roundOverSound.Play();
-    }
 
 
 }
