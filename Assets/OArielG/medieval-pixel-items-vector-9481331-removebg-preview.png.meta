@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: d6ef1fbb2d588f34398804960936db88
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 423
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ad521be91e5642b2b81c061dfda09
+      internalID: -2062751602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 421
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c125cbf8852fde342a7f6fe09d28e811
+      internalID: 732960663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 424
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf8382b03585f0419f1f86ba743ffb5
+      internalID: -1232182914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 412
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56086f20bdbfd3349adad45e21db6c44
+      internalID: -966951859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 316
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a83d2359bd54243ae0b59c829c265e
+      internalID: -782376465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 309
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93b08179ce109142a9513861de9fc38
+      internalID: 403890141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154ae07b8b8184642ac1e17528b5a96c
+      internalID: 887825381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 315
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49ef0318caf6454cbcbc1ce5a7d8106
+      internalID: 1848377080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 207
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ede5dd758e8d204cba8a99c1c7a5d2f
+      internalID: -1430890705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 213
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ccd4f61f8c75140918c336e38999dc
+      internalID: 292860751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 223
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d740fd744bc02334e9da007eb0b98618
+      internalID: 1212148256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 108
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e240048ea572554e9e1a4b23b4f8ced
+      internalID: 2115813142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 110
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a006fd68386c746ac74f84f52ebe62
+      internalID: -1802733768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 115
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341f97816d007f04da5946162846ec07
+      internalID: -1842865518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 104
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f714f56cccc12044da449914a718b987
+      internalID: -2002344452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval-pixel-items-vector-9481331-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 113
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4096d23ac28836c4e81dce77e50fcc39
+      internalID: 1334162272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      medieval-pixel-items-vector-9481331-removebg-preview_4: -349021096
+      medieval-pixel-items-vector-9481331-removebg-preview_27: 1983664103
+      medieval-pixel-items-vector-9481331-removebg-preview_47: -2002344452
+      medieval-pixel-items-vector-9481331-removebg-preview_17: -761644190
+      medieval-pixel-items-vector-9481331-removebg-preview_8: -2062751602
+      medieval-pixel-items-vector-9481331-removebg-preview_12: -966951859
+      medieval-pixel-items-vector-9481331-removebg-preview_1: 562867878
+      medieval-pixel-items-vector-9481331-removebg-preview_11: 2037550222
+      medieval-pixel-items-vector-9481331-removebg-preview_20: 1725262950
+      medieval-pixel-items-vector-9481331-removebg-preview_29: -540764744
+      medieval-pixel-items-vector-9481331-removebg-preview_18: 2028321098
+      medieval-pixel-items-vector-9481331-removebg-preview_26: 1920544011
+      medieval-pixel-items-vector-9481331-removebg-preview_33: 1212148256
+      medieval-pixel-items-vector-9481331-removebg-preview_34: 2044159190
+      medieval-pixel-items-vector-9481331-removebg-preview_14: 1784120830
+      medieval-pixel-items-vector-9481331-removebg-preview_24: 887825381
+      medieval-pixel-items-vector-9481331-removebg-preview_35: 1093568554
+      medieval-pixel-items-vector-9481331-removebg-preview_2: -1861326231
+      medieval-pixel-items-vector-9481331-removebg-preview_40: -58483638
+      medieval-pixel-items-vector-9481331-removebg-preview_10: -1232182914
+      medieval-pixel-items-vector-9481331-removebg-preview_43: -1752174727
+      medieval-pixel-items-vector-9481331-removebg-preview_52: 707924020
+      medieval-pixel-items-vector-9481331-removebg-preview_49: 1930079823
+      medieval-pixel-items-vector-9481331-removebg-preview_23: 403890141
+      medieval-pixel-items-vector-9481331-removebg-preview_32: 292860751
+      medieval-pixel-items-vector-9481331-removebg-preview_46: -1842865518
+      medieval-pixel-items-vector-9481331-removebg-preview_44: 2115813142
+      medieval-pixel-items-vector-9481331-removebg-preview_30: -46982631
+      medieval-pixel-items-vector-9481331-removebg-preview_9: 732960663
+      medieval-pixel-items-vector-9481331-removebg-preview_19: -2016397022
+      medieval-pixel-items-vector-9481331-removebg-preview_28: -676111636
+      medieval-pixel-items-vector-9481331-removebg-preview_39: -1526497532
+      medieval-pixel-items-vector-9481331-removebg-preview_50: 1132722122
+      medieval-pixel-items-vector-9481331-removebg-preview_53: 739629397
+      medieval-pixel-items-vector-9481331-removebg-preview_36: 966278995
+      medieval-pixel-items-vector-9481331-removebg-preview_25: 1848377080
+      medieval-pixel-items-vector-9481331-removebg-preview_38: -575944319
+      medieval-pixel-items-vector-9481331-removebg-preview_51: 185596755
+      medieval-pixel-items-vector-9481331-removebg-preview_31: -1430890705
+      medieval-pixel-items-vector-9481331-removebg-preview_5: 1762033254
+      medieval-pixel-items-vector-9481331-removebg-preview_42: -2401087
+      medieval-pixel-items-vector-9481331-removebg-preview_22: -782376465
+      medieval-pixel-items-vector-9481331-removebg-preview_48: 1334162272
+      medieval-pixel-items-vector-9481331-removebg-preview_13: 390907484
+      medieval-pixel-items-vector-9481331-removebg-preview_37: 1411501577
+      medieval-pixel-items-vector-9481331-removebg-preview_3: -1543496711
+      medieval-pixel-items-vector-9481331-removebg-preview_15: 441989023
+      medieval-pixel-items-vector-9481331-removebg-preview_21: 162881781
+      medieval-pixel-items-vector-9481331-removebg-preview_6: -71847417
+      medieval-pixel-items-vector-9481331-removebg-preview_7: -1276503127
+      medieval-pixel-items-vector-9481331-removebg-preview_0: -759810244
+      medieval-pixel-items-vector-9481331-removebg-preview_45: -1802733768
+      medieval-pixel-items-vector-9481331-removebg-preview_41: -2109167058
+      medieval-pixel-items-vector-9481331-removebg-preview_16: 1186840399
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
