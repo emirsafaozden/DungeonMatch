@@ -672,6 +672,7 @@ MonoBehaviour:
   - {fileID: 3451128216646403798, guid: 290bb984c7763fb46b637a27b99f39a1, type: 3}
   - {fileID: 1833319115330059489, guid: 03a6015be14cde44b8bb615c9095d6f2, type: 3}
   - {fileID: 1609605666652455152, guid: 9da51924daad47e4087bef6ea6ea09bf, type: 3}
+  - {fileID: 2628195216142183785, guid: fd1bc107897746c4685e2680957c89b2, type: 3}
   gemSpeed: 7
   matchFind: {fileID: 0}
   currentState: 1
